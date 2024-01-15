@@ -108,7 +108,7 @@ nav li a {
 }
 
 /* header ned */
-
+/* popular */
 main{
   padding: 50px 110px;
 }
@@ -170,4 +170,100 @@ main{
 .read-btn:hover{
   opacity: 0.9;
   background-color: rgba(255, 85, 0, 0.678);
+}
+/* popular-ends */
+.destination-heading{
+  text-align: center;
+  color: rgba(19, 19, 24, 1);
+  font-size: 2.5rem;
+  font-weight: 800;
+  margin-top: 120px;
+  margin-bottom: 35px;
+}
+
+.destination-para{
+  max-width: 643px;
+  margin: 0px auto;
+  text-align: center;
+  margin-bottom: 50px;
+  color: rgba(19, 19, 24, 0.7);
+}
+.maldives{
+  background-image: url("./Images/Rectangle\ 5.png");
+  padding: 132px 226px;
+  border-radius: 12px;
+  color: white;
+  font-size: 1.75rem;
+  font-weight: 800;
+  background-repeat: no-repeat;
+}
+.indonesia{
+  background-image: url("./Images/Rectangle\ 8.png");
+  padding: 132px 230px;
+  border-radius: 12px;
+  color: white;
+  font-size: 1.75rem;
+  font-weight: 800;
+  background-repeat: no-repeat;
+}
+.srilanka{
+  background-image: url("./Images/Rectangle\ 6.png");
+  color: white;
+  font-size: 1.75rem;
+  font-weight: 800;
+  background-repeat: no-repeat;
+  padding: 125px 130px;
+}
+.north-america{
+  background-image: url("./Images/Rectangle\ 7.png");
+  color: white;
+  font-size: 1.75rem;
+  font-weight: 800;
+  background-repeat: no-repeat;
+  padding: 125px 180px;
+  border-radius: 12px;
+}
+.kashmir{
+  background-image: url("./Images/Rectangle\ 9.png");
+  color: white;
+  font-size: 1.75rem;
+  font-weight: 800;
+  background-repeat: no-repeat;
+  padding: 125px 80px;
+}
+.bangladesh{
+  background-image: url("./Images/Rectangle\ 11.png");
+  color: white;
+  font-size: 1.75rem;
+  font-weight: 800;
+  background-repeat: no-repeat;
+  padding: 132px 156px;
+}
+.bandarban{
+  background-image: url("./Images/Rectangle\ 10.png");
+  color: white;
+  font-size: 1.75rem;
+  font-weight: 800;
+  background-repeat: no-repeat;
+  padding: 132px 260px;
+}
+
+.indo-mal{
+  display: flex;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.sri-nor-kash{
+  display: flex;
+  margin-bottom: 20px;
+  gap: 20px;
+}
+
+.ban-ban{
+  display: flex;
+  gap: 20px;
+}
+.palces img{
+  width: 100%;
 }
