@@ -1,0 +1,50 @@
+@media only screen and (max-width: 590px){
+    .navigation {
+        flex-direction: column;
+    
+    }
+    body {
+        overflow-x: hidden;
+    }
+    header{
+        padding: 25px;
+    }
+    .explore-heading {
+        color: white;
+        font-size: 22px;
+        font-weight: 800;
+        text-align: center;
+        margin-bottom: 10px;
+        margin-top: 20px;
+      }
+      
+      .explore-para {
+        text-align: center;
+        color: rgba(255, 255, 255, 1);
+        font-size: 1rem;
+        font-weight: 400;
+        padding: 10px;
+        max-width: 80%;
+      }
+
+      nav li {
+        margin-right: 15px;
+      }
+    .banner-div{
+        border-radius: 16px;
+  background: linear-gradient(
+      to bottom right,
+      rgba(19, 19, 24, 0.8) 0%,
+      rgba(19, 19, 24, 0) 100%
+    ),
+    url("./Images/Group 13 (1) (1).png");
+        background-position: center;
+        padding: 1px 2px;
+    }
+    .inp-c{
+        display: block;
+    }
+    .inp-c{
+        margin-left: 97px;
+    }
+}
