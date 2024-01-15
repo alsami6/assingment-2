@@ -1,45 +1,108 @@
-@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;500;600;700;800;900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;500;600;700;800;900&display=swap");
 
-*{
-    margin: 0px;
-    padding: 0px;
-    font-family: 'Mulish', sans-serif;
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Mulish", sans-serif;
 }
 
 /* header */
-.title-head{
-    display: flex;
+.title-head {
+  display: flex;
 }
 
-.brand-heading{
-    font-size: 1.25rem;
-    font-weight: 800;
-    padding-top: 6px;
-    padding-left: 15px;
+.brand-heading {
+  font-size: 1.25rem;
+  font-weight: 800;
+  padding-top: 6px;
+  padding-left: 15px;
 }
 
-header{
-    padding: 50px 110px;
+header {
+  padding: 50px 110px;
 }
 
-nav{
-    padding-top: 11px;
+nav {
+  padding-top: 11px;
 }
 
-nav > ul{
-    display: flex;
+nav > ul {
+  display: flex;
 }
 
-nav li{
-    list-style: none;
-    margin-right: 35px;
+nav li {
+  list-style: none;
+  margin-right: 35px;
 }
 
-nav li a{
-    text-decoration: none;
-    color: rgba(66, 66, 71, 1);
+nav li a {
+  text-decoration: none;
+  color: rgba(66, 66, 71, 1);
 }
-.navigation{
-    display: flex;
-    justify-content: space-between;
+.navigation {
+  display: flex;
+  justify-content: space-between;
+}
+
+.banner-div {
+  /* background-image: url("./Images/Group\ 13\ \(1\)\ \(1\).png"); */
+  margin-top: 50px;
+  padding: 100px 200px;
+  border-radius: 16px;
+  background: linear-gradient(
+      to bottom right,
+      rgba(19, 19, 24, 0.8) 0%,
+      rgba(19, 19, 24, 0) 100%
+    ),
+    url("./Images/Group 13 (1) (1).png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.explore-heading {
+  color: white;
+  font-size: 4rem;
+  font-weight: 800;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.explore-para {
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+  font-size: 1rem;
+  font-weight: 400;
+  max-width: 600px;
+  margin: 0px auto;
+}
+
+.input-from {
+  text-align: center;
+  margin-top: 60px;
+  margin-bottom: 40px;
+}
+
+.btn-find{
+    padding: 10px 40px;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    background-color: rgba(255, 84, 0, 1);
+    cursor: pointer;
+}
+
+.inp-c{
+    padding: 10px 10px 10px 10px;
+    border-radius: 8px;
+    border: none;
+    margin-right: 6px;
+}
+
+.inp-c:hover{
+    opacity: 0.8;
+}
+
+.btn-find:hover{
+    background-color: rgba(255, 84, 0, 1);
+    opacity: 0.7;
 }
