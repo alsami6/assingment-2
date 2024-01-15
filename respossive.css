@@ -4,8 +4,8 @@
     
     }
     body {
-        overflow-x: hidden;
-    }
+      overflow-x: hidden;
+  }
     header{
         padding: 25px;
     }
@@ -32,7 +32,7 @@
       }
     .banner-div{
         border-radius: 16px;
-  background: linear-gradient(
+        background: linear-gradient(
       to bottom right,
       rgba(19, 19, 24, 0.8) 0%,
       rgba(19, 19, 24, 0) 100%
@@ -45,6 +45,6 @@
         display: block;
     }
     .inp-c{
-        margin-left: 97px;
+        margin: 0px auto;
     }
 }
