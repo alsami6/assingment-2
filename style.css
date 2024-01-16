@@ -270,9 +270,6 @@ main{
 .why-us{
   margin-top: 100px;
 }
-.why-us-div{
-
-}
   
 .why-us-div-heading{color: rgba(19, 19, 24, 1);
   font-size: 2.5rem;
@@ -362,4 +359,56 @@ main{
   font-size: 1rem;
   font-weight: 400px;
   color: rgba(90, 90, 93, 1);
+}
+/* end */
+
+.gate-lost{
+  display: flex;
+  margin-top: 120px;
+}
+
+.gate-lost-div{
+  margin-right: 10px;
+}
+
+.gate-lost-div-heading{
+  color: rgba(19, 19, 24, 1);
+  font-size: 2.5rem;
+  font-weight: 800;
+  padding-right:25px;
+  margin-bottom: 20px;
+}
+
+.gate-lost-div-para{
+  color: rgba(90, 90, 93, 1);
+  font-size: 1rem;
+}
+
+.gate-lost-div-ul{
+  font-weight: 700;
+  font-weight: 1rem;
+  color: rgba(19, 19, 24, 1);
+  margin-top: 20px;
+  padding-left: 18px;
+}
+
+.gate-lost-div-ul li{
+  margin-top: 12px;
+  margin-bottom: 28px;
+}
+
+.btn-see{
+  padding: 14px 42px;
+  background-color: rgba(255, 84, 0, 1);
+  color: rgba(255, 255, 255, 1);
+  font-weight: 800;
+  font-size: 1.25rem;
+  border: none;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+
+.btn-see:hover{
+  opacity: 0.8;
 }
