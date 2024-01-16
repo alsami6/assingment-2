@@ -72,4 +72,46 @@
     .sri-nor-kash{
       flex-direction: column;
     }
+    .palces img{
+      background-position: center;
+      width: 100%;
+    }
+
+    .indonesia{
+      padding: 125px 130px;
+    }
+
+    .north-america{
+      padding: 125px 130px;
+    }
+
+    .kashmir{
+      margin: 0px auto;
+    }
+
+    .bangladesh{
+      padding: 125px 130px;
+      border-radius: 16px;
+    }
+
+    .bandarban{
+      padding: 125px 130px;
+      border-radius: 16px;
+    }
+
+    .maldives{
+      padding: 125px 130px;
+    }
+    .hotel-world{
+      flex-direction: column;
+      
+    }
+    .hotel-div{
+      margin: 0px auto;
+      justify-content: center;
+    }
+    .world-class-div{
+      width: 90%;
+      margin: 0px auto;
+    }
 }
