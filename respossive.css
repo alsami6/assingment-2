@@ -89,6 +89,10 @@
       margin: 0px auto;
     }
 
+    .destination-heading{
+      margin-top: 30px;
+    }
+
     .bangladesh{
       padding: 125px 130px;
       border-radius: 16px;
@@ -110,8 +114,8 @@
       margin: 0px auto;
       justify-content: center;
     }
+
     .world-class-div{
-      width: 90%;
       margin: 0px auto;
     }
 }
