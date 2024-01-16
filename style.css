@@ -82,62 +82,62 @@ nav li a {
   margin-bottom: 40px;
 }
 
-.btn-find{
-    padding: 10px 40px;
-    border: none;
-    border-radius: 8px;
-    color: white;
-    background-color: rgba(255, 84, 0, 1);
-    cursor: pointer;
+.btn-find {
+  padding: 10px 40px;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  background-color: rgba(255, 84, 0, 1);
+  cursor: pointer;
 }
 
-.inp-c{
-    padding: 10px 10px 10px 10px;
-    border-radius: 8px;
-    border: none;
-    margin-right: 6px;
+.inp-c {
+  padding: 10px 10px 10px 10px;
+  border-radius: 8px;
+  border: none;
+  margin-right: 6px;
 }
 
-.inp-c:hover{
-    opacity: 0.8;
+.inp-c:hover {
+  opacity: 0.8;
 }
 
-.btn-find:hover{
-    background-color: rgba(255, 84, 0, 1);
-    opacity: 0.7;
+.btn-find:hover {
+  background-color: rgba(255, 84, 0, 1);
+  opacity: 0.7;
 }
 
 /* header ned */
 /* popular */
-main{
+main {
   padding: 50px 110px;
 }
 
-.main-text-div{
+.main-text-div {
   width: 50%;
 }
 
-.main-div-1{
+.main-div-1 {
   display: flex;
 }
 
-.main-img-div{
+.main-img-div {
   width: 50%;
   margin-left: 50px;
 }
 
-.main-img-div img{
+.main-img-div img {
   width: 100%;
 }
 
-.popular-heading{
+.popular-heading {
   color: rgba(19, 19, 24, 1);
   font-size: 2.5rem;
   font-weight: 800;
   margin-bottom: 24px;
 }
 
-.popular-para{
+.popular-para {
   color: rgba(19, 19, 24, 0.7);
   font-size: 1rem;
   font-weight: 400;
@@ -145,18 +145,18 @@ main{
   margin-bottom: 30px;
 }
 
-.popular-list{
+.popular-list {
   color: rgba(19, 19, 24, 0.7);
   font-size: 1rem;
   font-weight: 400;
   padding-left: 20px;
 }
 
-.popular-list li{
+.popular-list li {
   margin-bottom: 20px;
 }
 
-.read-btn{
+.read-btn {
   padding: 14px 34px;
   border: none;
   border-radius: 8px;
@@ -167,12 +167,12 @@ main{
   margin-top: 20px;
   cursor: pointer;
 }
-.read-btn:hover{
+.read-btn:hover {
   opacity: 0.9;
   background-color: rgba(255, 85, 0, 0.678);
 }
 /* popular-ends */
-.destination-heading{
+.destination-heading {
   text-align: center;
   color: rgba(19, 19, 24, 1);
   font-size: 2.5rem;
@@ -181,14 +181,14 @@ main{
   margin-bottom: 35px;
 }
 
-.destination-para{
+.destination-para {
   max-width: 643px;
   margin: 0px auto;
   text-align: center;
   margin-bottom: 50px;
   color: rgba(19, 19, 24, 0.7);
 }
-.maldives{
+.maldives {
   background-image: url("./Images/Rectangle\ 5.png");
   padding: 132px 226px;
   border-radius: 12px;
@@ -197,7 +197,7 @@ main{
   font-weight: 800;
   background-repeat: no-repeat;
 }
-.indonesia{
+.indonesia {
   background-image: url("./Images/Rectangle\ 8.png");
   padding: 132px 230px;
   border-radius: 12px;
@@ -206,7 +206,7 @@ main{
   font-weight: 800;
   background-repeat: no-repeat;
 }
-.srilanka{
+.srilanka {
   background-image: url("./Images/Rectangle\ 6.png");
   color: white;
   font-size: 1.75rem;
@@ -214,7 +214,7 @@ main{
   background-repeat: no-repeat;
   padding: 125px 130px;
 }
-.north-america{
+.north-america {
   background-image: url("./Images/Rectangle\ 7.png");
   color: white;
   font-size: 1.75rem;
@@ -223,7 +223,7 @@ main{
   padding: 125px 180px;
   border-radius: 12px;
 }
-.kashmir{
+.kashmir {
   background-image: url("./Images/Rectangle\ 9.png");
   color: white;
   font-size: 1.75rem;
@@ -231,7 +231,7 @@ main{
   background-repeat: no-repeat;
   padding: 125px 80px;
 }
-.bangladesh{
+.bangladesh {
   background-image: url("./Images/Rectangle\ 11.png");
   color: white;
   font-size: 1.75rem;
@@ -239,7 +239,7 @@ main{
   background-repeat: no-repeat;
   padding: 132px 156px;
 }
-.bandarban{
+.bandarban {
   background-image: url("./Images/Rectangle\ 10.png");
   color: white;
   font-size: 1.75rem;
@@ -248,37 +248,37 @@ main{
   padding: 132px 260px;
 }
 
-.indo-mal{
+.indo-mal {
   display: flex;
   gap: 20px;
   margin-bottom: 20px;
 }
 
-.sri-nor-kash{
+.sri-nor-kash {
   display: flex;
   margin-bottom: 20px;
   gap: 20px;
 }
 
-.ban-ban{
+.ban-ban {
   display: flex;
   gap: 20px;
 }
-.palces img{
+.palces img {
   width: 100%;
 }
-.why-us{
+.why-us {
   margin-top: 100px;
 }
-  
-.why-us-div-heading{color: rgba(19, 19, 24, 1);
+
+.why-us-div-heading {
+  color: rgba(19, 19, 24, 1);
   font-size: 2.5rem;
   font-weight: 800;
   text-align: center;
-
 }
 
-.why-us-div-para{
+.why-us-div-para {
   font-size: 1rem;
   text-align: center;
   font-weight: 400;
@@ -289,14 +289,14 @@ main{
   padding-bottom: 50px;
 }
 
-.hotel-div{
+.hotel-div {
   background-color: rgba(251, 181, 99, 0.2);
   width: 50%;
   padding: 20px;
   border-radius: 16px;
 }
 
-.hotel-div-heading{
+.hotel-div-heading {
   color: rgba(19, 19, 24, 1);
   font-size: 1.5rem;
   font-weight: 800;
@@ -304,26 +304,26 @@ main{
   margin-bottom: 16px;
 }
 
-.hotel-world{
+.hotel-world {
   display: flex;
   gap: 24px;
 }
 
-.hotel-div-para{
+.hotel-div-para {
   margin-bottom: 20px;
   font-size: 1rem;
   font-weight: 400px;
   color: rgba(90, 90, 93, 1);
 }
 
-.world-class-div{
+.world-class-div {
   background-color: rgba(41, 206, 246, 0.2);
   max-width: 50%;
   padding: 20px;
   border-radius: 16px;
 }
 
-.world-class-div-heading{
+.world-class-div-heading {
   color: rgba(19, 19, 24, 1);
   font-size: 1.5rem;
   font-weight: 800;
@@ -331,14 +331,14 @@ main{
   margin-bottom: 16px;
 }
 
-.world-class-div-para{
+.world-class-div-para {
   margin-bottom: 20px;
   font-size: 1rem;
   font-weight: 400px;
   color: rgba(90, 90, 93, 1);
 }
 
-.price-div{
+.price-div {
   background-color: rgba(233, 68, 68, 0.2);
   max-width: 50%;
   padding: 20px;
@@ -346,7 +346,7 @@ main{
   margin: 0px auto;
   margin-top: 20px;
 }
-.price-div-heading{
+.price-div-heading {
   color: rgba(19, 19, 24, 1);
   font-size: 1.5rem;
   font-weight: 800;
@@ -354,7 +354,7 @@ main{
   margin-bottom: 16px;
 }
 
-.price-div-para{
+.price-div-para {
   margin-bottom: 20px;
   font-size: 1rem;
   font-weight: 400px;
@@ -362,29 +362,29 @@ main{
 }
 /* end */
 
-.gate-lost{
+.gate-lost {
   display: flex;
   margin-top: 120px;
 }
 
-.gate-lost-div{
+.gate-lost-div {
   margin-right: 10px;
 }
 
-.gate-lost-div-heading{
+.gate-lost-div-heading {
   color: rgba(19, 19, 24, 1);
   font-size: 2.5rem;
   font-weight: 800;
-  padding-right:25px;
+  padding-right: 25px;
   margin-bottom: 20px;
 }
 
-.gate-lost-div-para{
+.gate-lost-div-para {
   color: rgba(90, 90, 93, 1);
   font-size: 1rem;
 }
 
-.gate-lost-div-ul{
+.gate-lost-div-ul {
   font-weight: 700;
   font-weight: 1rem;
   color: rgba(19, 19, 24, 1);
@@ -392,12 +392,12 @@ main{
   padding-left: 18px;
 }
 
-.gate-lost-div-ul li{
+.gate-lost-div-ul li {
   margin-top: 12px;
   margin-bottom: 28px;
 }
 
-.btn-see{
+.btn-see {
   padding: 14px 42px;
   background-color: rgba(255, 84, 0, 1);
   color: rgba(255, 255, 255, 1);
@@ -409,6 +409,78 @@ main{
   cursor: pointer;
 }
 
-.btn-see:hover{
+.btn-see:hover {
+  opacity: 0.8;
+}
+
+.newsletter-div {
+  margin-right: 80px;
+}
+
+.newsletter-section {
+  display: flex;
+  margin-top: 130px;
+  margin-bottom: 110px;
+  
+}
+
+.newsletter-div{
+  border-radius: 16px;
+  border: 1px solid #ff5400;
+  padding: 40px;
+}
+
+.newsletter-div-heading {
+  color: rgba(19, 19, 24, 1);
+  font-size: 1.5rem;
+  font-weight: 800;
+  margin-bottom: 16px;
+}
+
+.newsletter-div-para {
+  font-size: 1rem;
+  font-weight: 400;
+  color: rgba(90, 90, 93, 1);
+  margin-bottom: 18px;
+}
+
+.in-name {
+  margin-top: 22px;
+  padding: 16px 185px 16px 16px;
+  border-radius: 8px;
+  border: none;
+  background-color: rgba(19, 19, 24, 0.05);
+  text-align: left;
+  margin-bottom: 10px;
+  
+}
+
+.in-eamil {
+  margin-top: 15px;
+  padding: 16px 185px 16px 16px;
+  border-radius: 8px;
+  border: none;
+  background-color: rgba(19, 19, 24, 0.05);
+  text-align: left;
+  margin-bottom: 10px;
+}
+.subscribe {
+  margin-top: 25px;
+  padding: 14px 132px;
+  border: none;
+  background-color: rgba(255, 84, 0, 1);
+  color: rgba(255, 255, 255, 1);
+  font-size: 1.25rem;
+  font-weight: 800px;
+  border-radius: 8px;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.newsletter-img{
+  margin-left: -25px;
+}
+
+.subscribe:hover{
   opacity: 0.8;
 }

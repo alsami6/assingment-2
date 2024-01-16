@@ -128,4 +128,32 @@
     margin: 0px auto;
     border-radius: 12px;
   }
+
+  .newsletter-section{
+    flex-direction: column;
+  }
+
+  .newsletter-img img{
+    justify-content: left;
+    width: 340px;
+    height: 200px;
+    object-fit: cover;
+    margin: 0px auto;
+    border-radius: 12px;
+    padding-left: 30px;
+    margin-top: 30px;
+    border-radius: 12px;
+  }
+  .newsletter-div{
+    padding: 50px;
+  }
+  .in-name{
+    padding: 16px 45px 16px 16px;
+  }
+  .in-eamil{
+    padding: 16px 45px 16px 16px;
+  }
+  .subscribe{
+    padding: 14px 55px;
+  }
 }
