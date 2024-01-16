@@ -4,7 +4,7 @@
     
     }
     body {
-      overflow-x: hidden;
+      overflow-x: none;
   }
     header{
         padding: 25px;
