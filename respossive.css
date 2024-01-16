@@ -156,4 +156,14 @@
   .subscribe{
     padding: 14px 55px;
   }
+
+  #footer-heading{
+    padding-left: 50px;
+  }
+  footer{
+    padding: 90px 50px;
+  }
+  .footer-para{
+    
+  }
 }
